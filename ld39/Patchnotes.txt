@@ -1,0 +1,46 @@
+Balance patch 1.0
+-Removed starting Coal and Oil
+-Raised Stone mine cost from 15 to 25
+-Raised Stone mine upkeep from 1 to 2
+-Raised Advanced stone mine upkeep from 10 to 15
+-Raised Wood mill yield from 2 to 3
+-Raised Wood furnace burnrate from 4 to 5
+
+Balance patch 1.1
+-Raised Stone mine mine yield from 2 to 4
+-Raised Advanced stone mine yield from 24 to 35
+-Raised Coal mine stone cost from 100 to 125
+-Lowered Coal mine upkeep from 6 to 5
+-Raised Coal Furnace stone cost from 225 to 275
+-Lowered Oil processing facility stone cost from 950 to 800
+-Lowered Oil pump stone cost from 600 to 550
+
+Balance patch 1.1a
+-Lowered Stone mine yield from 4 to 3
+
+Balance patch 1.2
+-Lowered Saw mill burnrate from 5 to 4
+-Raised Oil pump upkeep from 10 to 12
+-Raised Oil pump cost from 550 to 575
+-Raised Advanced stone mine cost from 125 to 200
+-Raised Coal energy yield from 3 to 4
+-Raised Oil processing facility upkeep from 0 to 2
+-Raised Oil energy yield from 9 to 11
+-Lowered Advanced stone mine yield from 35 to 25
+
+Balance patch 1.2a
+-Raised Earth scanner stone cost from 800 to 900
+-Raised Earth scanner upkeep from 15 to 30
+
+Balance patch 1.2b
+-Lowered Coal furnace burnrate from 4 to 3
+-Lowered Coal mine upkeep from 5 to 3
+-Lowered Coal mine yield from 3 to 2
+-Raised Coal energy yield from 4 to 5
+
+Balance patch 1.3
+-Lowered Oil pump upkeep from 12 to 11
+-Raised Oil processing facility upkeep from 2 to 3
+-Raised Coal mine upkeep from 3 to 4
+-Raised Coal furnace burnrate from 3 to 4
+-Raised Oil pump stone cost from 575 to 600

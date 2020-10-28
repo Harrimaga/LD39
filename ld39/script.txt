@@ -1,0 +1,27 @@
+-This is a base building game
+-This is your character, you control it by using the w a s d keys
+-Your character passively drains energy depending on your difficulty level
+-When you run out of energy the game is over
+
+-Your resource stockpiles are here in the right bottom corner of your screen
+
+-You can select buildings to build here in the left bottom corner of your screen
+-You can only build buildings next to your character and you can't move through buildings
+
+-It is always a good idea to start of by building a stone mine
+-This way, you'll never completely run out of stone to build buildings with , without having a way of getting new stone
+
+-You can now see your resource stockpiles changing
+-Now we are gaining stone but losing energy
+
+-Let's do something about that by farming some wood to turn into energy
+-First we build a Saw mill on a forest tile, to start gaining some wood
+
+-Then we build a wood furnace to turn our wood into energy
+-Now you can expand your base by building more saw mills and wood furnaces
+-and later on you can start mining more efficient resources to turn into energy like Coal, Oil or Gas
+-Al the while keep mining stone, because you'll need it to finish the game, by building a Fusion reactor
+-Good luck and have fun trying the game yourself
+
+
+
